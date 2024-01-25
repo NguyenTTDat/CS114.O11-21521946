@@ -1,0 +1,6 @@
+train: /content/gdrive/MyDrive/CS114_FinalProject/LP_Detection.v1i.yolov5pytorch/train
+val: /content/gdrive/MyDrive/CS114_FinalProject/LP_Detection.v1i.yolov5pytorch/valid
+
+
+nc:  1 
+names: ['license_plate']
