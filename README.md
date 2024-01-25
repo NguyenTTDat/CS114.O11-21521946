@@ -6,7 +6,7 @@
 
 <!-- Title -->
 <h1 align="center"><b>CS114.O11 - MÁY HỌC</b></h1>
-<h1 align="center"><b>PHÁT HIỆN VÀ NHẬN DIỆN BIỂN SỐ XE MÁY VIỆT NAM</b></h1>
+<h1 align="center"><b>PHÁT HIỆN VÀ NHẬN DIỆN BIỂN SỐ XE MÁY SỬ DỤNG CHO NHÀ XE</b></h1>
 
 ## Thông Tin Môn Học
 
